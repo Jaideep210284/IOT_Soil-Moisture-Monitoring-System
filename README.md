@@ -1,4 +1,4 @@
-Soil Moisture Monitoring System
+# Soil Moisture Monitoring System
 This project is a soil moisture monitoring system that uses an analog soil moisture sensor, a relay, and an I2C LCD display to monitor and display the soil moisture level and control a water pump. The system provides real-time updates on the soil moisture status and automatically turns the water pump on or off based on the moisture level.
 
 Table of Contents
